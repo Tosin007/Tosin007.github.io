@@ -1,4 +1,6 @@
 # new
+A simple todo app built with vue.js
+https://tosin007.github.io/vue-todo-app/
 
 ## Project setup
 ```
